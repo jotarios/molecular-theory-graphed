@@ -34,7 +34,7 @@ PS: The article is written in Spanish :es:
 ## Author
 
 * Jorge Rios ([@jotarios](https://github.com/jotarios))
-* Piero Beraún ([@carito20](https://github.com/pierocoder))
+* Piero Beraún ([@pierocoder](https://github.com/pierocoder))
 
 ## Licensing
 
@@ -43,7 +43,7 @@ All resources developed by me in this repository is released under the MIT licen
 ```text
     The MIT License
 
-    Copyright (c) 2016 Jorge Rios and Piero Beraún
+    Copyright (c) 2017 Jorge Rios and Piero Beraún
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
